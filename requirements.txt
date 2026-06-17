@@ -1,7 +1,7 @@
 streamlit
-numpy
+numpy==1.26.4
 pandas
 opencv-python-headless
 scikit-learn
 joblib
-mahotas==1.4.16
+mahotas==1.4.18
