@@ -3,6 +3,7 @@ import cv2
 import numpy as np
 import pandas as pd
 import mahotas as mt
+import mahotas.features
 import joblib
 from sklearn.preprocessing import StandardScaler, scale
 from sklearn import svm
